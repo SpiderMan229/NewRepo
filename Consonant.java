@@ -7,5 +7,6 @@ class Consonant
 			System.out.println("VOWEL");
 		else
 			System.out.println("CONSONANT");
+			System.out.println("VOWEL");
 	}
 }
